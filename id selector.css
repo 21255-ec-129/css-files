@@ -1,4 +1,37 @@
 #abc{
+	border: 20px solid blue;
+	background-color: hotpink;
 	font-size: 50px;
 	font-family: cursive;
 }
+
+p{
+	color: blue;
+	font-size: 75px;
+}
+div{
+	height: 200px;
+	width: 200px;
+	background-color: yellow;
+}
+
+*{
+	font-size: 20px;
+	font-family: cursive;color: black;
+	background-color: gray;
+}
+
+input[type]{
+	color: green;
+}
+input[type="name"]{
+	color: blue;
+}
+input[type="number"]{
+	color: red;
+}
+a[href]{
+	background-color:pink ;
+}
+
+
